@@ -10,3 +10,10 @@
     --btnText: #0077C5;
     --headerBtnBorder: #4C4C4C;
 }
+
+body {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--backBody);
+    color: var(--txtBody);
+}
