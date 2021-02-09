@@ -17,3 +17,10 @@ body {
     background: var(--backBody);
     color: var(--txtBody);
 }
+    a {
+        text-decoration: none;
+        color: var(--btnText);
+    }
+        a:hover {
+            text-decoration: underline;
+        }
