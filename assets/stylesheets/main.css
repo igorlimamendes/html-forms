@@ -24,3 +24,17 @@ body {
         a:hover {
             text-decoration: underline;
         }
+
+    button:hover {
+        cursor: pointer;
+    }
+        .btnImg {
+            height: 1.5em;
+            width: 1.2em;
+            margin-right: .45em;
+            vertical-align: text-top;
+            display: inline-block;
+            background-image: url(/assets/images/padlock.svg);
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
