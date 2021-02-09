@@ -2,3 +2,11 @@
 * {
     box-sizing: border-box;
 }
+
+:root {
+    --backBody: #ECEEF1;
+    --txtBody: #393A3D;
+    --white: #FFF;
+    --btnText: #0077C5;
+    --headerBtnBorder: #4C4C4C;
+}
