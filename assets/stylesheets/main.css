@@ -86,3 +86,7 @@ body {
             margin: 0 .5em;
             color: var(--txtBody);
         }
+
+    .footer__txtBox p {
+        margin: 0;
+    }
