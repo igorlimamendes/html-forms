@@ -30,6 +30,11 @@ body {
             text-decoration: underline;
         }
 
+        a:focus {
+            outline: .1em dotted var(--mainPrivacySettingsBack);
+            text-decoration: underline;
+        }
+
     button:hover {
         cursor: pointer;
     }
