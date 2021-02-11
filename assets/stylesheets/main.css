@@ -39,6 +39,10 @@ body {
     .main__privacySettings:hover {
         cursor: pointer;
     }
+        button:focus {
+            outline: none;
+        }
+
         .btnImg {
             height: 1.5em;
             width: 1.2em;
