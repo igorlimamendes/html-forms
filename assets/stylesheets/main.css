@@ -35,7 +35,8 @@ body {
             text-decoration: underline;
         }
 
-    button:hover {
+    button:hover,
+    .main__privacySettings:hover {
         cursor: pointer;
     }
         .btnImg {
