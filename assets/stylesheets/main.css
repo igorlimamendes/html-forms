@@ -9,6 +9,11 @@
     --white: #FFF;
     --btnText: #0077C5;
     --headerBtnBorder: #4C4C4C;
+    --mainArticleBorder: #C7C7C7;
+    --mainArticleTermsTxt: #757575;
+    --mainArticleRecaptchaTxt: #8D9096;
+    --mainPrivacySettingsBack: #6B6C72;
+    --mainArticleButtonHover: #127BCA;
 }
 
 body {
