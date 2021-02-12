@@ -173,6 +173,11 @@ body {
                 .main__article__txtBox p:last-child {
                     display: none;
                 }
+                
+        .main__article__infoBox {
+            margin-bottom: 2em;
+            padding: 0 2em;
+        }
 
 /* Footer */
 .footer {
