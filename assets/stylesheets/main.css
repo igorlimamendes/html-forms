@@ -158,6 +158,21 @@ body {
         border: .1em solid var(--mainArticleBorder);
         text-align: center;
     }
+        .main__article__txtBox {
+            padding: 0 1em 2em;
+        }
+            .main__article__txtBox h1 {
+                font-weight: normal;
+                font-size: 1.7em;
+                margin: .8em 0;
+            }
+
+            .main__article__txtBox p {
+                margin: 1.5em 1em 0;
+            }
+                .main__article__txtBox p:last-child {
+                    display: none;
+                }
 
 /* Footer */
 .footer {
