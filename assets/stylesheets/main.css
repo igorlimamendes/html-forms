@@ -246,6 +246,14 @@ body {
             color: var(--mainArticleTermsTxt);
         }
 
+        .main__article__recaptcha {
+            background: #ECEEF1;
+            width: 100%;
+            font-size: .75em;
+            color: var(--mainArticleRecaptchaTxt);
+            padding: 1em 2em;
+        }
+
 /* Footer */
 .footer {
     margin: 0 auto;
