@@ -81,6 +81,11 @@ body {
         margin: .7em .75em 0;
     }
 
+/* Main */
+.main {
+    padding: 4em 2em 0;
+}
+
 /* Footer */
 .footer {
     margin: 0 auto;
