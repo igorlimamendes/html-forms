@@ -85,6 +85,13 @@ body {
 .main {
     padding: 4em 2em 0;
 }
+    .main__imgBox1 {
+        margin: 0;
+        text-align: center;
+    }
+        .intuitImg {
+            display: inline-block;
+        }
 
 /* Footer */
 .footer {
