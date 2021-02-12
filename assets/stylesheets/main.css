@@ -296,4 +296,8 @@ body {
     .header {
         display: none;
     }
+
+    .main {
+        padding-top: 2em;
+    }
 }
