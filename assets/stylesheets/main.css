@@ -300,4 +300,7 @@ body {
     .main {
         padding-top: 2em;
     }
+        .main__article__txtBox p:last-child {
+            display: initial;
+        }
 }
