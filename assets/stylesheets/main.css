@@ -254,6 +254,18 @@ body {
             padding: 1em 2em;
         }
 
+    .main__privacySettings {
+        color: var(--white);
+        display: inline-block;
+        background: var(--mainPrivacySettingsBack);
+        padding: .82em;
+        border-radius: .3em;
+        font-size: 1.4em;
+        position: fixed;
+        bottom: 0;
+        right: 5%;
+    }
+
 /* Footer */
 .footer {
     margin: 0 auto;
