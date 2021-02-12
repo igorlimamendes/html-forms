@@ -293,5 +293,7 @@ body {
 
 /* Media queries */
 @media (max-width: 768px) {
-
+    .header {
+        display: none;
+    }
 }
