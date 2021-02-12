@@ -108,6 +108,15 @@ body {
                 cursor: pointer;
             }
 
+            .mintImg,
+            .quickbooksImg,
+            .turbotaxImg {
+                width: 23px;
+                height: 23px;
+                margin-right: .4em;
+                outline: none;
+            }
+
 /* Footer */
 .footer {
     margin: 0 auto;
