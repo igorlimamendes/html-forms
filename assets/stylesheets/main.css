@@ -225,6 +225,14 @@ body {
             font-size: 1.125em;
             padding: .6em 0;
         }
+            .main__article__button:hover,
+            .main__article__button:focus {
+                background: linear-gradient(var(--mainArticleButtonHover) 30%, var(--btnText) 70%);
+            }
+
+            .main__article__button:focus {
+                border-bottom-color: transparent;
+            }
 
 /* Footer */
 .footer {
