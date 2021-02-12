@@ -92,6 +92,13 @@ body {
         .intuitImg {
             display: inline-block;
         }
+    
+    .main__images {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        margin-top: 1.5em;
+    }
 
 /* Footer */
 .footer {
