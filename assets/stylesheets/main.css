@@ -214,6 +214,18 @@ body {
                 margin: .2em -2.2em;
             }
 
+        .main__article__button {
+            width: 320px;
+            max-width: 100%;
+            border: .1em solid transparent;
+            border-radius: .3em;
+            border-bottom-color: var(--headerBtnBorder);
+            background: var(--btnText);
+            color: var(--white);
+            font-size: 1.125em;
+            padding: .6em 0;
+        }
+
 /* Footer */
 .footer {
     margin: 0 auto;
