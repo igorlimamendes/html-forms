@@ -238,6 +238,14 @@ body {
                 vertical-align: middle;
             }
 
+        .main__article__terms {
+            padding: .5em 2em 1.8em;
+            font-size: .9em;
+            font-style: italic;
+            line-height: 1.5;
+            color: var(--mainArticleTermsTxt);
+        }
+
 /* Footer */
 .footer {
     margin: 0 auto;
