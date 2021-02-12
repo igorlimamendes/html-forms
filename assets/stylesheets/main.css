@@ -234,6 +234,10 @@ body {
                 border-bottom-color: transparent;
             }
 
+            .main__article__button .btnImg {
+                vertical-align: middle;
+            }
+
 /* Footer */
 .footer {
     margin: 0 auto;
