@@ -290,3 +290,8 @@ body {
     .footer__txtBox p {
         margin: 0;
     }
+
+/* Media queries */
+@media (max-width: 768px) {
+
+}
