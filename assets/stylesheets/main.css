@@ -99,6 +99,14 @@ body {
         justify-content: center;
         margin-top: 1.5em;
     }
+        .main__images__imgBox2 {
+            display: flex;
+            flex-flow: row nowrap;
+            margin: .5em .5em 0;
+        }
+            .main__images__imgBox2:hover {
+                cursor: pointer;
+            }
 
 /* Footer */
 .footer {
